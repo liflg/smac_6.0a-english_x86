@@ -109,7 +109,7 @@ Setup.Package
 			bytes = 6439169,
 			Setup.File
 			{
-				source = "base:///loki_compat_libs-1.4.tar.xz/",
+				source = "base:///loki_compat_libs-1.5.tar.xz/",
 			},
 		},
 	},
